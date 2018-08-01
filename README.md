@@ -11,6 +11,7 @@ The shipped image provides a ready-to-use touchpanel system, optimizied for the 
 ## Features
 
 - A simple graphical user interface for configuration.
+
   --> Configuration mode is split in two access roles: "Service technician mode" and "Administrator mode" 
 - Read-only-mode to protect the image file system, especially on power failures.
 - Hardware button to get access to the configuration interface or to restart the system. 
