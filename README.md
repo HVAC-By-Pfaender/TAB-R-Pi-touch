@@ -12,11 +12,11 @@ The shipped image provides a ready-to-use touchpanel system, optimizied for the 
 
 - A simple graphical user interface for configuration.
 
-  --> Configuration mode is split in two access roles: "Service technician mode" and "Administrator mode" 
+  --> Configuration mode is split in two access roles: "Service technician mode" and "Administrator mode".
 - Read-only-mode to protect the image file system, especially on power failures.
 - Hardware button to get access to the configuration interface or to restart the system. 
 - Auto-on mode in case of power failure.
 - Integrated VNC server
-- Kiosk-mode for CODESYS web visualization with optimized parameters
-- Auto-reconnect in case of a failed connection
+- Kiosk-mode for CODESYS web visualization with optimized parameters.
+- Auto-reconnect in case of a failed connection.
 - Emergency touch soft-button to get redirected to the configured start page, in case of a side loading failure. 
